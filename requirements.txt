@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+numpy
+scikit-learn
+xgboost
+shap
+dotenv
+kagglehub
+requests
